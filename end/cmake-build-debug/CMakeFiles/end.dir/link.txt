@@ -1,0 +1,3 @@
+"C:\Program Files\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\end.dir/objects.a
+C:\Users\Dell\mingw64tdm\bin\ar.exe cr CMakeFiles\end.dir/objects.a @CMakeFiles\end.dir\objects1.rsp
+C:\Users\Dell\mingw64tdm\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\end.dir/objects.a -Wl,--no-whole-archive  -o end.exe -Wl,--out-implib,libend.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\end.dir\linklibs.rsp

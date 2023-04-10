@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="PP1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Dell/Desktop/KBTU/PP1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/Dell/mingw64tdm/bin/mingw32-make.exe -f &quot;C:/Users/Dell/Desktop/KBTU/PP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Users/Dell/mingw64tdm/bin/mingw32-make.exe -f &quot;C:/Users/Dell/Desktop/KBTU/PP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/Dell/mingw64tdm/bin/mingw32-make.exe -f &quot;C:/Users/Dell/Desktop/KBTU/PP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/Dell/mingw64tdm/bin/mingw32-make.exe -f &quot;C:/Users/Dell/Desktop/KBTU/PP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PP1">
+				<Option output="C:/Users/Dell/Desktop/KBTU/PP1/cmake-build-debug/PP1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Dell/Desktop/KBTU/PP1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Dell/mingw64tdm/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="C:/Users/Dell/mingw64tdm/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/Dell/mingw64tdm/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="C:/Users/Dell/mingw64tdm/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="C:/Users/Dell/mingw64tdm/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="C:/Users/Dell/mingw64tdm/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="C:/Users/Dell/mingw64tdm/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/Dell/mingw64tdm/bin/mingw32-make.exe -f &quot;C:/Users/Dell/Desktop/KBTU/PP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 PP1"/>
+					<CompileFile command="C:/Users/Dell/mingw64tdm/bin/mingw32-make.exe -f &quot;C:/Users/Dell/Desktop/KBTU/PP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/Dell/mingw64tdm/bin/mingw32-make.exe -f &quot;C:/Users/Dell/Desktop/KBTU/PP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/Dell/mingw64tdm/bin/mingw32-make.exe -f &quot;C:/Users/Dell/Desktop/KBTU/PP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PP1/fast">
+				<Option output="C:/Users/Dell/Desktop/KBTU/PP1/cmake-build-debug/PP1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Dell/Desktop/KBTU/PP1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Dell/mingw64tdm/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="C:/Users/Dell/mingw64tdm/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/Dell/mingw64tdm/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="C:/Users/Dell/mingw64tdm/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="C:/Users/Dell/mingw64tdm/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="C:/Users/Dell/mingw64tdm/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="C:/Users/Dell/mingw64tdm/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/Dell/mingw64tdm/bin/mingw32-make.exe -f &quot;C:/Users/Dell/Desktop/KBTU/PP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 PP1/fast"/>
+					<CompileFile command="C:/Users/Dell/mingw64tdm/bin/mingw32-make.exe -f &quot;C:/Users/Dell/Desktop/KBTU/PP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/Dell/mingw64tdm/bin/mingw32-make.exe -f &quot;C:/Users/Dell/Desktop/KBTU/PP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/Dell/mingw64tdm/bin/mingw32-make.exe -f &quot;C:/Users/Dell/Desktop/KBTU/PP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Dell/Desktop/KBTU/PP1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/Dell/mingw64tdm/bin/mingw32-make.exe -f &quot;C:/Users/Dell/Desktop/KBTU/PP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Users/Dell/mingw64tdm/bin/mingw32-make.exe -f &quot;C:/Users/Dell/Desktop/KBTU/PP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/Dell/mingw64tdm/bin/mingw32-make.exe -f &quot;C:/Users/Dell/Desktop/KBTU/PP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/Dell/mingw64tdm/bin/mingw32-make.exe -f &quot;C:/Users/Dell/Desktop/KBTU/PP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Dell/Desktop/KBTU/PP1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/Dell/mingw64tdm/bin/mingw32-make.exe -f &quot;C:/Users/Dell/Desktop/KBTU/PP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Users/Dell/mingw64tdm/bin/mingw32-make.exe -f &quot;C:/Users/Dell/Desktop/KBTU/PP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/Dell/mingw64tdm/bin/mingw32-make.exe -f &quot;C:/Users/Dell/Desktop/KBTU/PP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/Dell/mingw64tdm/bin/mingw32-make.exe -f &quot;C:/Users/Dell/Desktop/KBTU/PP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/informatix/1.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/informatix/10.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/informatix/11.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/informatix/12.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/informatix/13.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/informatix/14.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/informatix/2.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/informatix/3.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/informatix/4.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/informatix/5.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/informatix/6.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/informatix/7.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/informatix/8.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/informatix/9.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab1/lab1_1.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab1/lab1_2.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab1/lab1_3.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab1/lab1_4.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab10/a.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab10/b.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab10/c.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab2/a.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab2/b.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab2/c.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab2/d.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab2/d1.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab2/e.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab2/f.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab2/g.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab2/h.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab2/i.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab2/j.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab2/k.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab2/l.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab2/m.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab2/n.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab2/o.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab3/a.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab3/b.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab3/c.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab3/d.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab3/e.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab3/f.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab3/g.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab3/h.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab3/i.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab3/j.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab3/k.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab3/l.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab3/m.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab3/n.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab3/o.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab3/p.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab3/q.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab4/a.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab4/b.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab4/c.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab4/d.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab4/e.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab4/f.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab4/g.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab4/h.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab4/i.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab4/j.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab4/k.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab4/l.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab4/m.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab4/n.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab5/a.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab5/b.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab5/c.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab5/d.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab5/e.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab5/f.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab5/g.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab5/h.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab5/i.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab5/j.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab5/k.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab5/l.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab5/m.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab5/n.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab5/o.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab6/a.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab6/b.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab6/c.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab6/d.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab6/e.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab6/f.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab6/g.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab6/h.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab7/a.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab7/b.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab7/c.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab7/d.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab8/a.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab8/b.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab8/c.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab8/d.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab8/e.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab8/f.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab8/g.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab8/h.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab8/i.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab8/j.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab8/k.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/lab8/k1.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/quiz2/b.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/quiz2/h.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/quiz3/1.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/quiz3/2.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/quiz3/3.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/quiz3/4.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/quiz3/5.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/quiz3/a.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/quiz3/b.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/quiz3/c.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/quiz3/d.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/quiz3/e.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/quiz3/f.cpp">
+			<Option target="PP1"/>
+		</Unit>
+		<Unit filename="C:/Users/Dell/Desktop/KBTU/PP1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
